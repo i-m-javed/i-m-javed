@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Javed 👋
 
-<!--
-**i-m-javed/i-m-javed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer focused on building clean, reliable, and user-friendly solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💼 Interested in backend systems, web applications, and practical automation
+- 🌱 Continuously improving my engineering and problem-solving skills
+- 🤝 Open to collaboration on meaningful open-source and real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Tools:** Git, GitHub, VS Code
+
+## 📌 Current Focus
+- Building production-ready projects with strong fundamentals
+- Writing maintainable, well-structured code
+- Learning modern software architecture and best practices
+
+## 📫 Connect With Me
+- GitHub: [@i-m-javed](https://github.com/i-m-javed)
+
+---
+Thanks for visiting my profile.
