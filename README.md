@@ -46,17 +46,37 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md__javed__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ijavedofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ijavedofficial@gmail.com) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+## 🛠️ Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | Java, JavaScript, Python |
+| **Frontend** | React.js, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, Spring Boot, Socket.IO, Hibernate |
+| **Databases & Caching** | MongoDB, MySQL, PostgreSQL, Supabase |
+| **Cloud & DevOps** | AWS, Google Cloud, Docker, Git, GitHub |
+| **Core CS & Tools** | Data Structures & Algorithms, OOP, OS, DBMS, Postman, REST APIs |
+| **Design & Architecture** | MVC, SOLID Principles, TDD, JUnit, Repository, Service Layer, DTO, DI (IoC) |
+
+### 🚀 Tech Stack I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,py,react,html,css,tailwindcss,nodejs,express,spring,mongodb,mysql,postgres,supabase,aws,docker,git,github,postman&perline=20" />
+</p>
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=i-m-javed&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=i-m-javed&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=i-m-javed&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+| 📊 GitHub Stats | 🔥 Streak Stats | 🚀 Top Languages |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.shion.dev/api?username=i-m-javed&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" height="170px" /> | <img src="https://streak-stats.demolab.com/?user=i-m-javed&theme=github_dark&hide_border=false" height="170px" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=i-m-javed&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170px" /> |
 
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=i-m-javed&limit=5&theme=dark&combine_all_yearly_contributions=true)
