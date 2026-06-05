@@ -32,7 +32,68 @@ I'm a Full-Stack Developer and Computer Science student passionate about buildin
 ---
 
 ## 🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top"> <h3>🌟 Vector J</h3> <p> A full-stack <strong>student collaboration platform</strong> that helps students discover hackathons, connect with peers based on skills, interests and location, and collaborate on real projects. </p> <p><strong>✨ Key Highlights</strong></p> <ul> <li>📍 Geospatial matching using MongoDB 2dsphere indexes</li> <li>💬 Real-time messaging with Socket.IO</li> <li>✅ Typing indicators, read receipts & online presence</li> <li>📋 Planner module for tasks and deadlines</li> <li>🔐 JWT auth with access & refresh tokens</li> <li>⚡ RTK Query caching & API rate limiting</li> <li>☁️ Cloudinary media uploads</li> <li>🚀 Deployed on Vercel & Render</li> </ul> <p> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> </p> <a href="https://www.vectorj.in"> <img src="https://img.shields.io/badge/🔗 Live Demo-00C7B7?style=for-the-badge" /> </a> </td> <td width="50%" valign="top"> <h3>🏠 HomeStay</h3> <p> An <strong>Airbnb-style</strong> full-stack web application for property listing, booking, reviews, authentication and location-based search. </p> <br/> <p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" /> </p> <br/><br/> <h3>🚌 Bus Ticket Booking System</h3> <p> A full-stack bus ticket booking platform enabling users to search routes, book tickets, manage reservations and view travel details. </p> <p> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p> <br/> <h3>🔗 URL Shortener</h3> <p> A URL shortening service with redirection, link management and analytics tracking for compact shareable links. </p> <p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> </p> </td> </tr> </table>
+
+<details open>
+<summary><strong>🚀 Vector J</strong></summary>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="assets/busGo.gif" alt="Vector J Demo" width="100%">
+
+</td>
+<td width="50%">
+
+### 🌐 Hurray 🎉 its Live
+https://www.vectorj.in
+
+A full-stack collaboration platform that helps students discover hackathons, connect with peers based on skills, interests, and location, and collaborate on projects.
+
+**Highlights**
+- Real-time messaging with Socket.IO
+- Geospatial matching using MongoDB 2dsphere indexes
+- Planner for tasks and deadlines
+- JWT Authentication with refresh tokens
+- RTK Query caching
+- API Rate Limiting
+- Cloudinary media uploads
+
+**Tech Stack:** React.js, Redux Toolkit, Node.js, Express.js, MongoDB, Socket.IO, JWT, Cloudinary, Vercel, Render
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><strong>🏠 HomeStay</strong></summary>
+
+Airbnb-style full-stack web application for property listing, booking, reviews, authentication, and location-based search.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Cloudinary
+
+</details>
+
+<details>
+<summary><strong>🚌 Bus Ticket Booking System</strong></summary>
+
+A full-stack bus ticket booking platform enabling route search, ticket booking, reservation management, and travel tracking.
+
+**Tech Stack:** React.js, Spring Boot, MySQL
+
+</details>
+
+<details>
+<summary><strong>🔗 URL Shortener</strong></summary>
+
+A URL shortening service with redirection, link management, and analytics tracking.
+
+**Tech Stack:** Node.js, Express.js, MongoDB
+
+</details>
+
 
 ---
 
