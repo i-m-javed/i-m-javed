@@ -96,13 +96,10 @@ https://your-live-link-here
 A full-stack bus ticket booking platform that enables users to search routes, reserve seats, manage bookings, and track travel information seamlessly.
 
 **Highlights**
-- Route search and filtering
-- Seat selection and reservation system
-- Secure authentication & authorization
-- Booking history management
-- RESTful API architecture
-- Real-time seat availability
-- Responsive user experience
+- Route discovery, trip search, and seat reservation system
+- Customer booking, payment tracking, and trip management
+- Driver scheduling with bus, route, and trip allocation
+- Agency resource management and review & feedback system
 
 ## ⚙️ Tech Stack Used
 
