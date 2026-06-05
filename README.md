@@ -64,14 +64,10 @@ I'm a Full-Stack Developer and Computer Science student passionate about buildin
 ---
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=i-m-javed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" width="850px" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=i-m-javed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
