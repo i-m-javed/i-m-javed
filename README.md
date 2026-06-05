@@ -34,13 +34,12 @@ I'm a Full-Stack Developer and Computer Science student passionate about buildin
 ## 🚀 Featured Projects
 
 <details open>
-<summary><strong>🚀 Vector J</strong></summary>
-
+<summary><strong>🚀 Vector J</strong></summary></Br>
 <table>
 <tr>
 <td width="50%">
 
-<img src="assets/busGo.gif" alt="Vector J Demo" width="100%">
+<img src="assets/vectorj.gif" alt="Vector J Demo" width="100%">
 
 </td>
 <td width="50%">
