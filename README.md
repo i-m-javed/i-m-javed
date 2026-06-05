@@ -44,17 +44,15 @@ I'm a Full-Stack Developer and Computer Science student passionate about buildin
 
 <img src="assets/vectorj.gif" alt="Vector J Demo" width="100%">
 
-### 🌐 Hurray 🎉 It's Live : [![Live Demo](https://img.shields.io/badge/www.vectorj.in-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vectorj.in)
+### 🌐 Hurray 🎉 It's Live : [![Live Demo](https://img.shields.io/badge/vectorj.in-00C853?style=flat&logo=google-chrome&logoColor=white)](https://www.vectorj.in)
 
 A full-stack student collaboration platform that helps students discover hackathons, connect with like-minded peers locally or across cities, form teams, collaborate in real-time, and manage projects—all in one place.
-
-<br>
 
 </td>
 <td width="50%">
   
 ### 🔗 Repository 
-[![GitHub](https://img.shields.io/badge/View_vectorj_showcase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/busgo)
+[![GitHub](https://img.shields.io/badge/View_vectorj_showcase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/vectorj-showcase)
 
 **Highlights**
 - Real-time messaging with Socket.IO
