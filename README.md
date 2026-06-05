@@ -58,7 +58,19 @@ A full-stack collaboration platform that helps students discover hackathons, con
 - API Rate Limiting
 - Cloudinary media uploads
 
-**Tech Stack:** React.js, Redux Toolkit, Node.js, Express.js, MongoDB, Socket.IO, JWT, Cloudinary, Vercel, Render
+## ⚙️ Tech Stack Used
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-46E3B7?style=flat-square&logo=tailwindcss&logoColor=black)
+![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=flat-square&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 </td>
 </tr>
@@ -67,32 +79,124 @@ A full-stack collaboration platform that helps students discover hackathons, con
 </details>
 
 <details>
-<summary><strong>🏠 HomeStay</strong></summary>
+<summary><strong>🚌 BusGo </strong></summary></Br>
 
-Airbnb-style full-stack web application for property listing, booking, reviews, authentication, and location-based search.
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Cloudinary
+<img src="assets/busGo.gif" alt="Bus Ticket Booking Demo" width="100%">
+
+</td>
+<td width="50%">
+
+### 🌐 Live Demo
+https://your-live-link-here
+
+A full-stack bus ticket booking platform that enables users to search routes, reserve seats, manage bookings, and track travel information seamlessly.
+
+**Highlights**
+- Route search and filtering
+- Seat selection and reservation system
+- Secure authentication & authorization
+- Booking history management
+- RESTful API architecture
+- Real-time seat availability
+- Responsive user experience
+
+## ⚙️ Tech Stack Used
+
+![Thymleaf](https://img.shields.io/badge/Thymeleaf-20232A?style=flat-square&logo=thymeleaf&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </details>
 
 <details>
-<summary><strong>🚌 Bus Ticket Booking System</strong></summary>
+<summary><strong>🏠 HomeStay</strong></summary></Br>
 
-A full-stack bus ticket booking platform enabling route search, ticket booking, reservation management, and travel tracking.
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack:** React.js, Spring Boot, MySQL
+<img src="assets/busGo.gif" alt="HomeStay Demo" width="100%">
+
+</td>
+<td width="50%">
+
+### 🌐 Live Demo
+https://your-live-link-here
+
+An Airbnb-inspired full-stack web application that enables users to discover, list, review, and manage rental properties through an intuitive booking experience.
+
+**Highlights**
+- Property listing and management
+- User authentication & authorization
+- Reviews and ratings system
+- Interactive map integration
+- Image uploads with Cloudinary
+- RESTful API architecture
+- Responsive UI
+
+## ⚙️ Tech Stack Used
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </details>
+
+
 
 <details>
-<summary><strong>🔗 URL Shortener</strong></summary>
+<summary><strong>🔗 URL Shortener</strong></summary></Br>
 
-A URL shortening service with redirection, link management, and analytics tracking.
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack:** Node.js, Express.js, MongoDB
+<img src="assets/url-shortener.gif" alt="URL Shortener Demo" width="100%">
+
+</td>
+<td width="50%">
+
+### 🌐 Live Demo
+https://your-live-link-here
+
+A scalable URL shortening service that generates compact links, handles redirection, and provides analytics for tracking user engagement.
+
+**Highlights**
+- Short URL generation
+- Custom aliases support
+- Link redirection system
+- Click analytics and tracking
+- RESTful API architecture
+- Rate limiting and validation
+- MongoDB-based persistence
+
+## ⚙️ Tech Stack Used
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </details>
-
 
 ---
 
