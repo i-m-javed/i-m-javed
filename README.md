@@ -34,20 +34,27 @@ I'm a Full-Stack Developer and Computer Science student passionate about buildin
 ## 🚀 Featured Projects
 
 <details open>
-<summary><strong>🚀 Vector J</strong></summary></Br>
+<summary><strong>🚀 Vector J</strong></summary>
+
+<br>
+
 <table>
 <tr>
 <td width="50%">
 
 <img src="assets/vectorj.gif" alt="Vector J Demo" width="100%">
 
+### 🌐 Hurray 🎉 It's Live : [![Live Demo](https://img.shields.io/badge/www.vectorj.in-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vectorj.in)
+
+A full-stack student collaboration platform that helps students discover hackathons, connect with like-minded peers locally or across cities, form teams, collaborate in real-time, and manage projects—all in one place.
+
+<br>
+
 </td>
 <td width="50%">
-
-### 🌐 Hurray 🎉 its Live
-https://www.vectorj.in
-
-A full-stack collaboration platform that helps students discover hackathons, connect with peers based on skills, interests, and location, and collaborate on projects.
+  
+### 🔗 Repository 
+[![GitHub](https://img.shields.io/badge/View_vectorj_showcase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/busgo)
 
 **Highlights**
 - Real-time messaging with Socket.IO
@@ -58,7 +65,7 @@ A full-stack collaboration platform that helps students discover hackathons, con
 - API Rate Limiting
 - Cloudinary media uploads
 
-## ⚙️ Tech Stack Used
+**⚙️ Tech Stack used**
 
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-46E3B7?style=flat-square&logo=tailwindcss&logoColor=black)
@@ -90,8 +97,9 @@ A full-stack collaboration platform that helps students discover hackathons, con
 </td>
 <td width="50%">
 
-### 🌐 Live Demo
-https://your-live-link-here
+### 🔗 Repository
+
+[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/busgo)
 
 A full-stack bus ticket booking platform that enables users to search routes, reserve seats, manage bookings, and track travel information seamlessly.
 
