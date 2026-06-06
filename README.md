@@ -1,10 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammad%20Javed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Spring%20Boot&descAlignY=58&descColor=a0a0ff" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Mohammad%20Javed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full%20Stack&descAlignY=58&descColor=b8c6ff" />
 </div>
-
----
 
 <div align="center">
 
@@ -27,7 +23,7 @@
 # 👨‍💻 About Me
 _Passionate about building products that solve real-world problems through clean code, scalable systems, and continuous learning._
 
-I'm a Full-Stack Developer and Computer Science student passionate about building scalable web applications that solve real-world problems. I enjoy working across the entire development lifecycle—from designing backend architectures and REST APIs to creating responsive user experiences.
+I'm a Full-Stack Developer, enjoy working across the entire development lifecycle—from designing backend architectures and REST APIs to creating responsive user experiences.
 
 ---
 
@@ -46,13 +42,15 @@ I'm a Full-Stack Developer and Computer Science student passionate about buildin
 
 ### 🌐 Hurray 🎉 It's Live : [![Live Demo](https://img.shields.io/badge/vectorj.in-00C853?style=flat&logo=google-chrome&logoColor=white)](https://www.vectorj.in)
 
+### Overview
+
 A full-stack student collaboration platform that helps students discover hackathons, connect with like-minded peers locally or across cities, form teams, collaborate in real-time, and manage projects—all in one place.
 
 </td>
 <td width="50%">
   
 ### 🔗 Repository 
-[![GitHub](https://img.shields.io/badge/View_vectorj_showcase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/vectorj-showcase)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/vectorj-showcase)
 
 **Highlights**
 - Real-time messaging with Socket.IO
@@ -101,7 +99,7 @@ A full-stack bus ticket booking platform that enables users to search routes, re
 
 ### 🔗 Repository
 
-[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/busGo)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/busGo)
 
 **Highlights**
 - Route discovery, trip search, and seat reservation system
@@ -111,7 +109,7 @@ A full-stack bus ticket booking platform that enables users to search routes, re
 
 **⚙️ Tech Stack used**
 
-![Thymleaf](https://img.shields.io/badge/Thymeleaf-20232A?style=flat-square&logo=thymeleaf&logoColor=61DAFB)
+![Thymleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -133,39 +131,35 @@ A full-stack bus ticket booking platform that enables users to search routes, re
 
 ### Overview 
 
-An Airbnb-inspired full-stack web application that enables users to discover, list, review, and manage rental properties through an intuitive booking experience.
+**HomeStay** is a full-stack property booking platform inspired by Airbnb, allowing users to discover, list, favorite, and book properties through dedicated host and guest accounts.
 
 </td>
 <td width="50%">
 
 ### 🔗 Repository
 
-[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/homeStay)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/homeStay)
 
 **Highlights**
-- Property listing and management
-- User authentication & authorization
-- Reviews and ratings system
-- Interactive map integration
-- Image uploads with Cloudinary
-- RESTful API architecture
-- Responsive UI
+- Secure authentication with role-based access control
+- Browse, book, and reserve property listings
+- Save properties to personal favorites
+- Host and manage custom property listings
+- Image uploading for property photos
   
 **⚙️ Tech Stack used**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 </tr>
 </table>
 
 </details>
-
-
 
 <details>
 <summary><strong>🔗 SnapIt </strong></summary></Br>
@@ -186,19 +180,19 @@ An Airbnb-inspired full-stack web application that enables users to discover, li
   
 ### 🔗 Repository
 
-[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/url-shortner)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/url-shortner)
 
 ### ✨ Highlights
 
-* **Lightning-fast URL shortening & redirection**
-* **Custom short-link aliases**
-* **Personal dashboard with visit analytics**
-* **No-login URL creation**
-* **Click tracking and link management**
-* **Glassmorphic, responsive UI**
+- Lightning-fast URL shortening & redirection
+- Custom short-link aliases
+- Personal dashboard with visit analytics
+- No-login URL creation
+- Click tracking and link management
+- Glassmorphic, responsive UI
 
 
-**⚙️ Tech Stack**
+**⚙️ Tech Stack used**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -222,7 +216,7 @@ An Airbnb-inspired full-stack web application that enables users to discover, li
 | **Programming Languages** | Java, JavaScript, Python |
 | **Frontend** | React.js, HTML5, CSS3 |
 | **Backend** | Node.js, Express.js, Spring Boot, Socket.IO, Hibernate |
-| **Databases & Caching** | MongoDB, MySQL, PostgreSQL, Supabase |
+| **Databases & Caching** | MongoDB, MySQL, PostgreSQL |
 | **Cloud & DevOps** | AWS, Google Cloud, Docker, Git, GitHub |
 | **Core CS & Tools** | Data Structures & Algorithms, OOP, OS, DBMS, Postman, REST APIs |
 | **Design & Architecture** | MVC, SOLID Principles, TDD, JUnit, Repository, Service Layer, DTO, DI (IoC) |
