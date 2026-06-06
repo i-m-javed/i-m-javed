@@ -92,6 +92,8 @@ A full-stack student collaboration platform that helps students discover hackath
 
 <img src="assets/busGo.gif" alt="Bus Ticket Booking Demo" width="100%">
 
+### Overview 
+
 A full-stack bus ticket booking platform that enables users to search routes, reserve seats, manage bookings, and track travel information seamlessly.
 
 </td>
@@ -129,13 +131,16 @@ A full-stack bus ticket booking platform that enables users to search routes, re
 
 <img src="assets/busGo.gif" alt="HomeStay Demo" width="100%">
 
+### Overview 
+
+An Airbnb-inspired full-stack web application that enables users to discover, list, review, and manage rental properties through an intuitive booking experience.
+
 </td>
 <td width="50%">
 
-### 🌐 Live Demo
-https://your-live-link-here
+### 🔗 Repository
 
-An Airbnb-inspired full-stack web application that enables users to discover, list, review, and manage rental properties through an intuitive booking experience.
+[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/busgo)
 
 **Highlights**
 - Property listing and management
@@ -153,7 +158,6 @@ An Airbnb-inspired full-stack web application that enables users to discover, li
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 </td>
 </tr>
