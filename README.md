@@ -92,14 +92,14 @@ A full-stack student collaboration platform that helps students discover hackath
 
 <img src="assets/busGo.gif" alt="Bus Ticket Booking Demo" width="100%">
 
+A full-stack bus ticket booking platform that enables users to search routes, reserve seats, manage bookings, and track travel information seamlessly.
+
 </td>
 <td width="50%">
 
 ### 🔗 Repository
 
 [![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/busgo)
-
-A full-stack bus ticket booking platform that enables users to search routes, reserve seats, manage bookings, and track travel information seamlessly.
 
 **Highlights**
 - Route discovery, trip search, and seat reservation system
