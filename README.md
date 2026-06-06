@@ -109,7 +109,7 @@ A full-stack bus ticket booking platform that enables users to search routes, re
 - Driver scheduling with bus, route, and trip allocation
 - Agency resource management and review & feedback system
 
-## ⚙️ Tech Stack Used
+**⚙️ Tech Stack used**
 
 ![Thymleaf](https://img.shields.io/badge/Thymeleaf-20232A?style=flat-square&logo=thymeleaf&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -150,8 +150,8 @@ An Airbnb-inspired full-stack web application that enables users to discover, li
 - Image uploads with Cloudinary
 - RESTful API architecture
 - Responsive UI
-
-## ⚙️ Tech Stack Used
+  
+**⚙️ Tech Stack used**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -168,7 +168,7 @@ An Airbnb-inspired full-stack web application that enables users to discover, li
 
 
 <details>
-<summary><strong>🔗 URL Shortener</strong></summary></Br>
+<summary><strong>🔗 SnapIt </strong></summary></Br>
 
 <table>
 <tr>
@@ -178,7 +178,8 @@ An Airbnb-inspired full-stack web application that enables users to discover, li
 
 ### Overview
 
-A URL shortening service that generates compact links, handles redirection, and provides analytics for tracking user engagement.
+**SnapIt** is a modern full-stack URL shortener that transforms long URLs into clean, shareable links. It features secure authentication, link management, visit analytics, and responsive user experience.
+
 
 </td>
 <td width="50%">
@@ -187,20 +188,24 @@ A URL shortening service that generates compact links, handles redirection, and 
 
 [![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/url-shortner)
 
-**Highlights**
-- Short URL generation
-- Custom aliases support
-- Link redirection system
-- Click analytics and tracking
-- RESTful API architecture
-- Rate limiting and validation
-- MongoDB-based persistence
+### ✨ Highlights
 
-## ⚙️ Tech Stack Used
+* **Lightning-fast URL shortening & redirection**
+* **Custom short-link aliases**
+* **Personal dashboard with visit analytics**
+* **No-login URL creation**
+* **Click tracking and link management**
+* **Glassmorphic, responsive UI**
 
+
+**⚙️ Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 </td>
 </tr>
