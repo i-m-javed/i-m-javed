@@ -129,7 +129,7 @@ A full-stack bus ticket booking platform that enables users to search routes, re
 <tr>
 <td width="50%">
 
-<img src="assets/busGo.gif" alt="HomeStay Demo" width="100%">
+<img src="assets/homeStay.gif" alt="HomeStay Demo" width="100%">
 
 ### Overview 
 
