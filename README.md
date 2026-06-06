@@ -101,7 +101,7 @@ A full-stack bus ticket booking platform that enables users to search routes, re
 
 ### 🔗 Repository
 
-[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/busgo)
+[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/busGo)
 
 **Highlights**
 - Route discovery, trip search, and seat reservation system
