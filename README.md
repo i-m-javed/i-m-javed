@@ -140,7 +140,7 @@ An Airbnb-inspired full-stack web application that enables users to discover, li
 
 ### 🔗 Repository
 
-[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/busgo)
+[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/busgo)](https://github.com/i-m-javed/homeStay)
 
 **Highlights**
 - Property listing and management
