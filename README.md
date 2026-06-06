@@ -174,15 +174,18 @@ An Airbnb-inspired full-stack web application that enables users to discover, li
 <tr>
 <td width="50%">
 
-<img src="assets/url-shortener.gif" alt="URL Shortener Demo" width="100%">
+<img src="assets/url-shortner.gif" alt="URL Shortener Demo" width="100%">
+
+### Overview
+
+A URL shortening service that generates compact links, handles redirection, and provides analytics for tracking user engagement.
 
 </td>
 <td width="50%">
+  
+### 🔗 Repository
 
-### 🌐 Live Demo
-https://your-live-link-here
-
-A scalable URL shortening service that generates compact links, handles redirection, and provides analytics for tracking user engagement.
+[![GitHub](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i-m-javed/url-shortner)
 
 **Highlights**
 - Short URL generation
