@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:141E30,100:243B55&text=Mohammad%20Javed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full%20Stack&descAlignY=58&descColor=b8c6ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:141E30,100:243B55&text=Mohammad%20Javed&fontSize=52&fontColor=ffffff&fontAlignY=38&descColor=b8c6ff" />
 </div>
 
 <div align="center">
@@ -233,6 +233,12 @@ A full-stack bus ticket booking platform that enables users to search routes, re
 | 📊 GitHub Stats | 🔥 Streak Stats | 🚀 Top Languages |
 | :---: | :---: | :---: |
 | <img src="https://github-readme-stats.shion.dev/api?username=i-m-javed&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" height="170px" /> | <img src="https://streak-stats.demolab.com/?user=i-m-javed&theme=github_dark&hide_border=false" height="170px" /> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=i-m-javed&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170px" /> |
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
